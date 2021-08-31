@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @Tee-dubbs
+- 👀 I’m interested in geoscience, dimension reduction, supervised machine learning...
+- 🌱 I’m currently learning use copilot...
+- 💞️ I’m looking to collaborate on supervised machine learning of raster datasets...
+
+<!---
+Tee-dubbs/Tee-dubbs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
